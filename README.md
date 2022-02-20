@@ -9,7 +9,7 @@ Mainly focused on Flutter / Dart development. Also knows a lot about JavaScript,
 ![image](https://user-images.githubusercontent.com/46919888/154864617-024b151c-2c8e-40f5-bc34-dc593c12227f.png)
 
 
-## What I'm doing
+## What I'm Doing
 
 - 🥓 I'm currently working on The freeCodeCamp mobile app.
 - 🎯 I'm currently learning Dart and the Flutter framework.
@@ -18,7 +18,7 @@ Mainly focused on Flutter / Dart development. Also knows a lot about JavaScript,
 - 😄Ask me about: anything
 - 📫 How to reach me: sem@freeCodeCamp.org.
 
-## Fun facts
+## Fun Facts
 
 - 🕶️ Fun fact 1: Started learning to code in 2014 when asked to write a SQL-database with PHP for a Minecraft server. 
 - 🦋 Fun fact 2: Worked on a 2D-platformer game in Unity C-sharp with interns at Tata Steel.
@@ -26,3 +26,6 @@ Mainly focused on Flutter / Dart development. Also knows a lot about JavaScript,
 - 🐎 Fun fact 4: Loves racing games and open-world games, like Forza Horizon 5.
 - ✈️ Fun Fact 5: Likes to travel a lot, hiking in particular.
 
+## Coding Statistics
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sembauke&show_icons=true&theme=radical)
