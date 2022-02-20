@@ -28,4 +28,7 @@ Mainly focused on Flutter / Dart development. Also knows a lot about JavaScript,
 
 ## Coding Statistics
 
+This is a summary of my activity in the past year. 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sembauke&show_icons=true&theme=radical)
+
