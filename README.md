@@ -11,11 +11,11 @@ Mainly focused on Flutter / Dart development. Also knows a lot about JavaScript,
 
 ## What I'm Doing
 
-- 🥓 I'm currently working on The freeCodeCamp mobile app.
+- 🥓 I'm currently working on [The freeCodeCamp mobile app](https://github.com/freeCodeCamp/mobile).
 - 🎯 I'm currently learning Dart and the Flutter framework.
 - 🥇 I'm looking to collaberate on an awesome project of mine.
-- 🐊 I'm looking for help with PhoneIDE (mobile code editor, Flutter / Dart)
-- 😄Ask me about: anything
+- 🐊 I'm looking for help with [PhoneIDE](https://github.com/freeCodeCamp/PhoneIDE)(mobile code editor, Flutter / Dart)
+- 😄 Ask me about: anything
 - 📫 How to reach me: sem@freeCodeCamp.org.
 
 ## Fun Facts
