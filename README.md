@@ -13,7 +13,6 @@ Mainly focused on Flutter / Dart development. Also knows a lot about JavaScript,
 
 - 🥓 I'm currently working on [The freeCodeCamp mobile app](https://github.com/freeCodeCamp/mobile).
 - 🎯 I'm currently learning Dart and the Flutter framework.
-- 🥇 I'm looking to collaberate on an awesome project of mine.
 - 🐊 I'm looking for help with [PhoneIDE](https://github.com/freeCodeCamp/PhoneIDE) (mobile code editor, Flutter / Dart)
 - 😄 Ask me about: anything
 - 📫 How to reach me: sem@freeCodeCamp.org.
@@ -22,8 +21,8 @@ Mainly focused on Flutter / Dart development. Also knows a lot about JavaScript,
 
 - 🕶️ Fun fact 1: Started learning to code in 2014 when asked to write a SQL-database with PHP for a Minecraft server. 
 - 🦋 Fun fact 2: Worked on a 2D-platformer game in Unity C-sharp with interns at Tata Steel.
-- 🧮 Fun fact 3: Is a big fan of Formula 1 and Max Verstappen, despises Lewis Hamilton in a respectful manner.
-- 🐎 Fun fact 4: Loves racing games and open-world games, like Forza Horizon 5.
+- 🧮 Fun fact 3: Is a big fan of Formula 1 and Max Verstappen
+- 🐎 Fun fact 4: Loves racing games and open-world games
 - ✈️ Fun Fact 5: Likes to travel a lot, hiking in particular.
 
 ## Coding Statistics
