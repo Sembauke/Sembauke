@@ -12,10 +12,8 @@ Mainly focused on Flutter / Dart development. Also knows a lot about JavaScript,
 ## What I'm Doing
 
 - 🥓 I'm currently working on [The freeCodeCamp mobile app](https://github.com/freeCodeCamp/mobile).
-- 🎯 I'm currently learning Dart and the Flutter framework.
-- 🐊 I'm looking for help with [PhoneIDE](https://github.com/freeCodeCamp/PhoneIDE) (mobile code editor, Flutter / Dart)
+- 🎯 I'm currentlw
 - 😄 Ask me about: anything
-- 📫 How to reach me: sem@freeCodeCamp.org.
 
 ## Fun Facts
 
@@ -29,5 +27,5 @@ Mainly focused on Flutter / Dart development. Also knows a lot about JavaScript,
 
 This is a summary of my activity in the past year. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sembauke&show_icons=true&theme=radical)
+![Sem's GitHub stats](https://github-readme-stats.vercel.app/api?username=sembauke&show_icons=true&theme=radical)
 
