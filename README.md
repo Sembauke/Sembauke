@@ -9,12 +9,6 @@ Mainly focused on Flutter / Dart development. Also knows a lot about JavaScript,
 ![image](https://user-images.githubusercontent.com/46919888/154864617-024b151c-2c8e-40f5-bc34-dc593c12227f.png)
 
 
-## What I'm Doing
-
-- 🥓 I'm currently working on [The freeCodeCamp mobile app](https://github.com/freeCodeCamp/mobile).
-- 🎯 I'm currentlw
-- 😄 Ask me about: anything
-
 ## Fun Facts
 
 - 🕶️ Fun fact 1: Started learning to code in 2014 when asked to write a SQL-database with PHP for a Minecraft server. 
