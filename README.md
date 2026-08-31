@@ -1,5 +1,4 @@
-![gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTczZGljMjJ2N3ppaDJybHhiNW9pemlmcTB6NHZxaW9mcHhmOHNkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6hKL8BI8rRNrMRFtAx/giphy.gif
-)
+
 
 Welcome to my page, I am Sem and working remotely at freeCodeCamp from The Netherlands. 
 
